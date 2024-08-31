@@ -5,7 +5,7 @@ This dashboard displays information about purchases, returns, and top-selling pr
 # Dashboard
 ## Tableau Dashboard
 
-[![Tableau Dashboard](https://public.tableau.com/app/profile/alfredo.lopez2632/viz/Dashboard_datos_de_ventas/Dashboard1)
+[![Tableau Dashboard]([https://public.tableau.com/app/profile/alfredo.lopez2632/viz/Dashboard_datos_de_ventas/Dashboard1](https://public.tableau.com/views/Dashboard_datos_de_ventas/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 Click the image to view the full interactive dashboard.
 
