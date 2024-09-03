@@ -4,3 +4,5 @@ This dashboard displays information about purchases, returns, and top-selling pr
 
 
 
+## Dasboard
+https://public.tableau.com/views/Dashboard_datos_de_ventas/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
